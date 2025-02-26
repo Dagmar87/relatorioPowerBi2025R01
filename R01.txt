@@ -1,0 +1,13 @@
+1 - Importar (Excel, banco de dados, web, google sheets) 
+2 - Editar
+3 - Criar os relacionamentos entre as tabelas
+4 - Criar formulas/analises/numeros (DAX)
+5 - Criar o Relatorio/Dashboard
+
+----------------
+
+Até 25 anos - Jovem 
+
+De 26 até 55 - Adulto
+
+De 56 pra cima - Sênior
