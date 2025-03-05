@@ -16,3 +16,17 @@ De 56 pra cima - Sênior
 -----------------
 
 Tabela Fato x Tabela Caracteristicas (Dimensão)
+
+----------------
+
+- Qtd vendida
+
+- Qtd devolvida / % devoluções
+
+- Fat total
+
+- Ticket médio
+
+- Vendas Lojas Físicas
+
+CALCULATE( expressão, filtro )
