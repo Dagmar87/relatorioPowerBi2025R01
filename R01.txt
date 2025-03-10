@@ -30,3 +30,15 @@ Tabela Fato x Tabela Caracteristicas (Dimensão)
 - Vendas Lojas Físicas
 
 CALCULATE( expressão, filtro )
+
+-----------------
+
+- Receita
+- Total vendas
+- Ticket Médio
+- Qtd clientes
+
+- Fat. mensal
+- Vendas por Gênero
+- Fat. por região
+- Fat. por marca 
